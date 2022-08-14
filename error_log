@@ -1,0 +1,236 @@
+[23-Jun-2020 10:53:26 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php on line 66
+[23-Jun-2020 10:53:27 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php on line 66
+[23-Jun-2020 10:53:29 UTC] PHP Fatal error:  DISEVAL - Use of eval is forbidden in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/View.php(434) : eval()'d code on line 1
+[23-Jun-2020 10:53:29 UTC] PHP Fatal error:  Uncaught yii\base\ErrorException: ini_set() has been disabled for security reasons in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php:123
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError(2, 'ini_set() has b...', '/home/nrtin/pub...', 123, Array)
+#1 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php(123): ini_set('display_errors', 1)
+#2 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php(276): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php on line 123
+[23-Jun-2020 10:55:32 UTC] PHP Fatal error:  DISEVAL - Use of eval is forbidden in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/View.php(434) : eval()'d code on line 1
+[23-Jun-2020 10:55:32 UTC] PHP Fatal error:  Uncaught yii\base\ErrorException: ini_set() has been disabled for security reasons in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php:123
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError(2, 'ini_set() has b...', '/home/nrtin/pub...', 123, Array)
+#1 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php(123): ini_set('display_errors', 1)
+#2 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php(276): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php on line 123
+[23-Jun-2020 10:58:56 UTC] PHP Fatal error:  DISEVAL - Use of eval is forbidden in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/View.php(434) : eval()'d code on line 1
+[23-Jun-2020 11:00:36 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php on line 66
+[23-Jun-2020 11:00:36 UTC] PHP Fatal error:  DISEVAL - Use of eval is forbidden in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/View.php(434) : eval()'d code on line 1
+[23-Jun-2020 11:00:36 UTC] PHP Fatal error:  Uncaught yii\base\ErrorException: ini_set() has been disabled for security reasons in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php:123
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError(2, 'ini_set() has b...', '/home/nrtin/pub...', 123, Array)
+#1 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php(123): ini_set('display_errors', 1)
+#2 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php(276): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php on line 123
+[23-Jun-2020 11:01:15 UTC] PHP Fatal error:  DISEVAL - Use of eval is forbidden in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/View.php(434) : eval()'d code on line 1
+[23-Jun-2020 11:01:15 UTC] PHP Fatal error:  Uncaught yii\base\ErrorException: ini_set() has been disabled for security reasons in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php:123
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError(2, 'ini_set() has b...', '/home/nrtin/pub...', 123, Array)
+#1 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php(123): ini_set('display_errors', 1)
+#2 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php(276): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php on line 123
+[23-Jun-2020 11:03:07 UTC] PHP Fatal error:  DISEVAL - Use of eval is forbidden in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/View.php(434) : eval()'d code on line 1
+[23-Jun-2020 11:03:07 UTC] PHP Fatal error:  Uncaught yii\base\ErrorException: ini_set() has been disabled for security reasons in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php:123
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError(2, 'ini_set() has b...', '/home/nrtin/pub...', 123, Array)
+#1 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php(123): ini_set('display_errors', 1)
+#2 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php(276): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php on line 123
+[23-Jun-2020 11:10:06 UTC] PHP Fatal error:  DISEVAL - Use of eval is forbidden in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/View.php(434) : eval()'d code on line 1
+[23-Jun-2020 11:10:06 UTC] PHP Fatal error:  Uncaught yii\base\ErrorException: ini_set() has been disabled for security reasons in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php:123
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError(2, 'ini_set() has b...', '/home/nrtin/pub...', 123, Array)
+#1 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php(123): ini_set('display_errors', 1)
+#2 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php(276): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php on line 123
+[23-Jun-2020 11:10:45 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php on line 66
+[23-Jun-2020 11:10:45 UTC] PHP Fatal error:  DISEVAL - Use of eval is forbidden in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/View.php(434) : eval()'d code on line 1
+[23-Jun-2020 11:10:45 UTC] PHP Fatal error:  Uncaught yii\base\ErrorException: ini_set() has been disabled for security reasons in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php:123
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError(2, 'ini_set() has b...', '/home/nrtin/pub...', 123, Array)
+#1 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php(123): ini_set('display_errors', 1)
+#2 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php(276): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php on line 123
+[23-Jun-2020 11:11:26 UTC] PHP Fatal error:  DISEVAL - Use of eval is forbidden in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/View.php(434) : eval()'d code on line 1
+[23-Jun-2020 11:11:26 UTC] PHP Fatal error:  Uncaught yii\base\ErrorException: ini_set() has been disabled for security reasons in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php:123
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError(2, 'ini_set() has b...', '/home/nrtin/pub...', 123, Array)
+#1 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php(123): ini_set('display_errors', 1)
+#2 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php(276): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php on line 123
+[23-Jun-2020 11:12:46 UTC] PHP Fatal error:  DISEVAL - Use of eval is forbidden in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/View.php(434) : eval()'d code on line 1
+[23-Jun-2020 11:13:38 UTC] PHP Fatal error:  DISEVAL - Use of eval is forbidden in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/View.php(434) : eval()'d code on line 1
+[30-Jun-2020 23:22:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1179648 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Memory.php on line 66
+[01-Jul-2020 02:47:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Fill.php on line 310
+[01-Jul-2020 02:47:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[01-Jul-2020 03:03:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1179648 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Memory.php on line 66
+[01-Jul-2020 03:37:20 UTC] PHP Warning:  require(/home/nrtin/public_html/skkrt/vendor/composer/../swiftmailer/swiftmailer/lib/swift_required.php): failed to open stream: No such file or directory in /home/nrtin/public_html/skkrt/vendor/composer/autoload_real.php on line 69
+[01-Jul-2020 03:37:20 UTC] PHP Fatal error:  require(): Failed opening required '/home/nrtin/public_html/skkrt/vendor/composer/../swiftmailer/swiftmailer/lib/swift_required.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/nrtin/public_html/skkrt/vendor/composer/autoload_real.php on line 69
+[01-Jul-2020 03:37:20 UTC] PHP Warning:  require_once(/home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorException.php): failed to open stream: No such file or directory in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php on line 223
+[01-Jul-2020 03:37:20 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorException.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php on line 223
+[01-Jul-2020 03:37:20 UTC] PHP Warning:  require_once(/home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorException.php): failed to open stream: No such file or directory in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php on line 258
+[01-Jul-2020 03:37:20 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorException.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php on line 258
+[01-Jul-2020 03:37:20 UTC] PHP Warning:  include(/home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php): failed to open stream: No such file or directory in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[01-Jul-2020 03:37:20 UTC] PHP Warning:  include(): Failed opening '/home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/ErrorHandler.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[01-Jul-2020 03:37:20 UTC] PHP Warning:  include(/home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/UnknownClassException.php): failed to open stream: No such file or directory in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[01-Jul-2020 03:37:20 UTC] PHP Warning:  include(): Failed opening '/home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/base/UnknownClassException.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[01-Jul-2020 03:37:20 UTC] PHP Fatal error:  Uncaught Error: Class 'yii\base\UnknownClassException' not found in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php:296
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload('yii\\base\\Unknow...')
+#1 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php(296): spl_autoload_call('yii\\base\\Unknow...')
+#2 [internal function]: yii\BaseYii::autoload('yii\\base\\ErrorH...')
+#3 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/web/ErrorHandler.php(31): spl_autoload_call('yii\\base\\ErrorH...')
+#4 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php(293): include('/home/nrtin/pub...')
+#5 [internal function]: yii\BaseYii::autoload('yii\\web\\ErrorHa...')
+#6 [internal function]: spl_autoload_call('yii\\web\\ErrorHa...')
+#7 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/di/Container.php(447): ReflectionClass->__construct('yii\\web\\ErrorHa...')
+#8 /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/di/Container.php(374): yii\di\Container->getDependencies('yii\\web\\ErrorHa...')
+#9  in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 296
+[01-Jul-2020 16:54:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Fill.php on line 310
+[01-Jul-2020 16:54:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[01-Jul-2020 16:55:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[01-Jul-2020 16:55:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[02-Jul-2020 00:49:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1187
+[02-Jul-2020 01:04:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[02-Jul-2020 01:04:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[02-Jul-2020 01:09:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[02-Jul-2020 01:09:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[02-Jul-2020 01:09:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Fill.php on line 310
+[02-Jul-2020 01:09:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[02-Jul-2020 02:48:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2359296 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[02-Jul-2020 02:51:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2359296 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[02-Jul-2020 02:52:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2359296 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[02-Jul-2020 03:30:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2359296 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[02-Jul-2020 03:46:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 294912 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[02-Jul-2020 03:46:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 294912 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[02-Jul-2020 04:43:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2359296 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[02-Jul-2020 04:59:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 50970848 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/Command.php on line 1293
+[03-Jul-2020 07:36:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[03-Jul-2020 07:36:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[03-Jul-2020 07:40:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[03-Jul-2020 07:40:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[03-Jul-2020 07:41:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[03-Jul-2020 07:41:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[03-Jul-2020 07:43:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[03-Jul-2020 07:43:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[03-Jul-2020 07:45:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[03-Jul-2020 07:45:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[03-Jul-2020 07:45:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[03-Jul-2020 07:45:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[03-Jul-2020 07:45:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1179648 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Memory.php on line 66
+[03-Jul-2020 07:46:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1179648 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Memory.php on line 66
+[03-Jul-2020 07:48:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[03-Jul-2020 07:48:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[03-Jul-2020 07:51:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[03-Jul-2020 07:51:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[03-Jul-2020 07:51:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[03-Jul-2020 07:51:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[03-Jul-2020 07:53:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1179648 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Memory.php on line 66
+[03-Jul-2020 07:55:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Fill.php on line 310
+[03-Jul-2020 07:55:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[03-Jul-2020 07:59:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[03-Jul-2020 07:59:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[03-Jul-2020 08:35:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 51045120 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/Command.php on line 1293
+[03-Jul-2020 08:36:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 51045120 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/Command.php on line 1293
+[04-Jul-2020 04:00:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[04-Jul-2020 04:00:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[04-Jul-2020 04:00:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[04-Jul-2020 06:42:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[04-Jul-2020 06:42:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Fill.php on line 310
+[04-Jul-2020 06:42:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[04-Jul-2020 06:42:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[04-Jul-2020 06:42:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[04-Jul-2020 06:43:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[06-Jul-2020 01:35:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 157
+[06-Jul-2020 01:58:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Memory.php on line 66
+[06-Jul-2020 01:59:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Memory.php on line 66
+[06-Jul-2020 02:01:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Memory.php on line 66
+[06-Jul-2020 02:01:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Memory.php on line 66
+[06-Jul-2020 03:15:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1190
+[06-Jul-2020 04:08:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[06-Jul-2020 04:08:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[06-Jul-2020 04:08:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[06-Jul-2020 04:23:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1179648 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Memory.php on line 66
+[06-Jul-2020 07:01:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 51200416 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/Command.php on line 1293
+[06-Jul-2020 08:35:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[06-Jul-2020 08:35:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[06-Jul-2020 08:36:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Fill.php on line 310
+[06-Jul-2020 08:57:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Memory.php on line 66
+[06-Jul-2020 19:31:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1179648 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[06-Jul-2020 19:31:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1179648 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[06-Jul-2020 22:42:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097160 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 142
+[06-Jul-2020 22:42:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097160 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 142
+[07-Jul-2020 00:31:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 157
+[07-Jul-2020 00:31:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[07-Jul-2020 02:07:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[07-Jul-2020 02:42:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[07-Jul-2020 02:47:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1190
+[07-Jul-2020 04:02:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[07-Jul-2020 04:03:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Fill.php on line 310
+[07-Jul-2020 04:03:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[07-Jul-2020 04:13:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2359296 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[07-Jul-2020 04:14:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2359296 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[07-Jul-2020 04:17:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2359296 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[07-Jul-2020 05:35:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1179648 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[07-Jul-2020 05:36:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1179648 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[07-Jul-2020 06:08:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[07-Jul-2020 06:09:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Fill.php on line 310
+[07-Jul-2020 13:34:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/Command.php on line 1167
+[07-Jul-2020 13:34:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[07-Jul-2020 13:35:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/Command.php on line 1167
+[07-Jul-2020 13:35:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[07-Jul-2020 13:53:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/Command.php on line 1167
+[07-Jul-2020 13:53:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[07-Jul-2020 13:54:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/Command.php on line 1167
+[07-Jul-2020 13:54:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[07-Jul-2020 14:04:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[07-Jul-2020 23:33:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[07-Jul-2020 23:58:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1187
+[07-Jul-2020 23:58:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 36864 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Memory.php on line 66
+[07-Jul-2020 23:58:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1187
+[07-Jul-2020 23:59:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1187
+[08-Jul-2020 00:00:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1187
+[08-Jul-2020 00:44:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2359296 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[08-Jul-2020 00:45:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2359296 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[08-Jul-2020 00:58:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 157
+[08-Jul-2020 01:07:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 157
+[08-Jul-2020 01:21:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2359296 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[08-Jul-2020 01:22:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2359296 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[08-Jul-2020 01:22:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2359296 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 415
+[08-Jul-2020 01:29:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[08-Jul-2020 01:31:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[08-Jul-2020 01:33:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Fill.php on line 310
+[08-Jul-2020 01:34:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php on line 405
+[08-Jul-2020 02:30:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 51797968 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/Command.php on line 1293
+[08-Jul-2020 02:35:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1187
+[08-Jul-2020 02:36:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1187
+[08-Jul-2020 02:36:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1187
+[08-Jul-2020 02:36:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1187
+[08-Jul-2020 02:42:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1187
+[08-Jul-2020 02:48:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/Command.php on line 1167
+[08-Jul-2020 02:48:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[08-Jul-2020 02:49:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 9437184 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 157
+[08-Jul-2020 02:50:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/Command.php on line 1167
+[08-Jul-2020 02:50:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[08-Jul-2020 02:58:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4718592 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 157
+[08-Jul-2020 03:00:02 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 9437184 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 157
+[08-Jul-2020 03:17:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/db/Command.php on line 1167
+[08-Jul-2020 03:17:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 147456 bytes) in /home/nrtin/public_html/skkrt/vendor/yiisoft/yii2/BaseYii.php on line 293
+[08-Jul-2020 03:54:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2359296 bytes) in /home/nrtin/public_html/skkrt/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 157
